@@ -1,4 +1,4 @@
-# p-ebt-landingpage
+# p-ebt-landing
 Landing Page for CFA P-EBT Sites
 
 # Run locally
